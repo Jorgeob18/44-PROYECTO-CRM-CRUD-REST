@@ -1,6 +1,7 @@
 /* eslint-disable no-useless-return */
 /* eslint-disable wrap-iife */
 import { mostrarAlerta } from './funciones.js';
+import { nuevoCliente } from './API.js';
 
 (function () {
   const formulario = document.querySelector('#formulario');
@@ -25,7 +26,7 @@ import { mostrarAlerta } from './funciones.js';
       mostrarAlerta('Todos los campos son obligatorios');
       return;
     }
-    console.log('Si se pasó la validacion');
+    nuevoCliente(cliente);
   }
 
   function validar(obj) {
