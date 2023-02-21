@@ -27,6 +27,13 @@
       "telefono": "12312313123",
       "empresa": "Apple",
       "id": 29
+    },
+    {
+      "nombre": "Juan Rulfo",
+      "email": "alex@info.com",
+      "telefono": "2312313123",
+      "empresa": "Apple",
+      "id": 30
     }
   ]
 }
