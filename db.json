@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
-    },
-    {
       "nombre": "Pedro Paramo",
       "email": "sistemas@mofeg.com.mx",
       "telefono": "3313303553",
@@ -20,13 +13,6 @@
       "telefono": "3313333224",
       "empresa": "Mofeg",
       "id": 28
-    },
-    {
-      "nombre": "Alejandro",
-      "email": "alex@info.com",
-      "telefono": "12312313123",
-      "empresa": "Apple",
-      "id": 29
     },
     {
       "nombre": "Juan Rulfo",
