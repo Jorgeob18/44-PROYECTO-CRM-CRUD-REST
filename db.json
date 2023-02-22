@@ -8,18 +8,32 @@
       "id": 27
     },
     {
-      "nombre": "jorge Ortiz",
-      "email": "asdasd@test.com",
-      "telefono": "3313333224",
-      "empresa": "Mofeg",
-      "id": 28
-    },
-    {
       "nombre": "Juan Rulfo",
       "email": "alex@info.com",
       "telefono": "2312313123",
       "empresa": "Apple",
       "id": 30
+    },
+    {
+      "nombre": "Haruki Murakami",
+      "email": "hm@info.com",
+      "telefono": "1234123211",
+      "empresa": "Japan Company",
+      "id": 31
+    },
+    {
+      "nombre": "Yair",
+      "email": "yair@info.com",
+      "telefono": "9823125633",
+      "empresa": "Avaly",
+      "id": 32
+    },
+    {
+      "nombre": "Jorge Ortiz",
+      "email": "jortiz@info.com",
+      "telefono": "3312456322",
+      "empresa": "Mofeg",
+      "id": 33
     }
   ]
 }
